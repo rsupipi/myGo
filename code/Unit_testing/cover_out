@@ -1,0 +1,4 @@
+mode: set
+my_unit_test/greeting.go:5.35,6.20 1 1
+my_unit_test/greeting.go:10.2,10.38 1 1
+my_unit_test/greeting.go:6.20,8.3 1 0
